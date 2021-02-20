@@ -53,11 +53,11 @@ git clone https://github.com/akshitagupta15june/LBPH-Face-Recognition.git
 
 - Execute -
 
-(face images collection)
+#### face images samples collection
 
       python recognition-part-1.py 
       
-(model training + final recognition)  
+#### model training + final recognition
 
       python recognition-part-2.py 
 
