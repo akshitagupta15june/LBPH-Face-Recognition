@@ -26,11 +26,6 @@ The LBPH algorithm is a part of opencv.
 - Fork the repository
 >click on the uppermost button <img src="https://github.com/Vinamrata1086/Face-X/blob/master/Recognition-Algorithms/Facial%20Recognition%20using%20LBPH/images/fork.png" width=50>
 
-- Clone the repository using-
-```
-git clone https://github.com/akshitagupta15june/LBPH-Face-Recognition.git
-```
-
 1. **Create virtual environment**
 
 ```bash
@@ -48,6 +43,13 @@ source env/bin/activate
 ```bash
 env\Scripts\activate
 ```
+
+- Clone the repository using-
+```
+git clone https://github.com/akshitagupta15june/LBPH-Face-Recognition.git
+```
+
+- Install Dependencies
 
 - Execute -
 ```
