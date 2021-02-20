@@ -53,8 +53,8 @@ git clone https://github.com/akshitagupta15june/LBPH-Face-Recognition.git
 
 - Execute -
 ```
-python facial_recognition_part1.py (face images collection)
-python facial_recognition_part2.py (model training + final recognition)
+python recognition-part-1.py (face images collection)
+python recognition-part-2.py (model training + final recognition)
 ```
 
 Note: Make sure you have haarcascade_frontalface_default.xml file 
