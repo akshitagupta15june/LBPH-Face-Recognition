@@ -52,10 +52,15 @@ git clone https://github.com/akshitagupta15june/LBPH-Face-Recognition.git
 - Install Dependencies
 
 - Execute -
-```
-python recognition-part-1.py (face images collection)
-python recognition-part-2.py (model training + final recognition)
-```
+
+(face images collection)
+
+      python recognition-part-1.py 
+      
+(model training + final recognition)  
+
+      python recognition-part-2.py 
+
 
 Note: Make sure you have haarcascade_frontalface_default.xml file 
 
