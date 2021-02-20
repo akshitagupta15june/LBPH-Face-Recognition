@@ -30,11 +30,23 @@ The LBPH algorithm is a part of opencv.
 ```
 git clone https://github.com/akshitagupta15june/LBPH-Face-Recognition.git
 ```
-- Create virtual environment-
+
+1. **Create virtual environment**
+
+```bash
+python -m venv env
+``` 
+
+2. **Linux**
 ```
-- `python -m venv env`
-- `source env/bin/activate`  (Linux)
-- `env\Scripts\activate`  (Windows)
+source env/bin/activate
+```
+
+### OR
+
+2. **Windows**
+```bash
+env\Scripts\activate
 ```
 
 - Execute -
