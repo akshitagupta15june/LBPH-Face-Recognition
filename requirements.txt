@@ -2,4 +2,4 @@ opencv-python
 
 dlib
 
-
+opencv-contrib-python
